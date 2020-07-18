@@ -1,0 +1,11 @@
+pytest~=5.4.3
+pynput~=1.6.8
+PyAutoGUI~=0.9.50
+numpy~=1.19.0
+opencv-python~=4.3.0.36
+pandas~=1.0.5
+psutil~=5.7.0
+distro~=1.5.0
+pytest-html==2.1.1
+ansi2html==1.5.2
+TestLink-API-Python-client==0.8.1
